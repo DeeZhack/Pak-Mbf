@@ -1,3 +1,4 @@
+!/usr/bin/bash
 clear
 echo
 echo "Wait Until The Process Is Complete.!"
